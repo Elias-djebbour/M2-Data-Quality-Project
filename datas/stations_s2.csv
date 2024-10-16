@@ -1,0 +1,5 @@
+ID_Station,Num,Rue,Ville,Code_postal,Tel,Contact_Mail
+101,12,Rue de Paris,Paris,75001,01 45 45 45 45,paris@stations.com
+102,5,Rue Victor Hugo,Lyon,69001,04 78 78 78 78,lyon@stations.com
+103,34,Avenue de la République,Marseille,13001,04 91 91 91 91,marseille@stations.com
+104,23,Boulevard Saint-Michel,Toulouse,31000,05 61 61 61 61,toulouse@stations.com
