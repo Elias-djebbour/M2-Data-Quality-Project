@@ -1,0 +1,8 @@
+ID_Station;Numéro;Rue;Code_postal;Ville;Téléphone;Contact_Mail
+1;5;Etant d'or;78120;Rambouillet; 01 75 03 40 00;rambouillet@airparif.fr
+2;8;Limoges;78000;Versailles;01 39 25 40 00;versailles@airparif.fr
+3;1;Emile Zola;78200;Mantes-la-Jolie;01 34 78 81 00;mantes@airparif.fr
+4;;Parvis de la Défense;92800;Puteaux;01 46 92 92 92;ladefense@airparif.fr
+5;;Allée des Refusniks;75007;Paris;01 53 58 75 07;paris07@airparif.fr
+6;2 bis;Quai de la Mégisserie;75001;Paris; 01 44 50 75;pari01@airparif.fr
+7;60;Richelieu;92230;Gennevillier;01 40 85 66 66;gennevilier@airparif.fr

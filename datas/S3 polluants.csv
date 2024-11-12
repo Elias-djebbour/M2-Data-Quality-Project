@@ -1,0 +1,7 @@
+ID_Polluant;Désignation;Seuil toléré (µg/m3)
+NO2;Dioxyde d'azote;200
+PM10;Particules;50
+PM2.5;Particules;20
+O3;Ozone;120
+CO;Monoxyde de carbone;10000
+SO2;Dioxyde de soufre;125
