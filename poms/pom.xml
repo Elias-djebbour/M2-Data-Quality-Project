@@ -6,10 +6,10 @@
   <artifactId>code.Master</artifactId>
   <version>8.0.1</version>
   <packaging>pom</packaging>
-  <name>M2_DATA_QUALITY_PROJECT Codes Master</name>
+  <name>M2_DATA_QUALITY Codes Master</name>
   <url>http://www.talend.org/</url>
   <properties>
-    <talend.project.name>M2_DATA_QUALITY_PROJECT</talend.project.name>
+    <talend.project.name>M2_DATA_QUALITY</talend.project.name>
     <encoding>UTF-8</encoding>
   </properties>
   <build>

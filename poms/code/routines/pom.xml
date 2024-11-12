@@ -11,7 +11,7 @@
   <groupId>org.example.m2_data_quality_project.code</groupId>
   <artifactId>routines</artifactId>
   <version>8.0.1</version>
-  <name>M2_DATA_QUALITY_PROJECT Routines</name>
+  <name>M2_DATA_QUALITY Routines</name>
   <properties>
     <talend.codes.package>routines</talend.codes.package>
     <maven.compiler.failOnError>${codes.compile.failOnError}</maven.compiler.failOnError>

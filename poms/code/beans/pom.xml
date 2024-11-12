@@ -11,7 +11,7 @@
   <groupId>org.example.m2_data_quality_project.bean</groupId>
   <artifactId>beans</artifactId>
   <version>8.0.1</version>
-  <name>M2_DATA_QUALITY_PROJECT Beans</name>
+  <name>M2_DATA_QUALITY Beans</name>
   <properties>
     <talend.codes.package>beans</talend.codes.package>
     <maven.compiler.failOnError>${codes.compile.failOnError}</maven.compiler.failOnError>
